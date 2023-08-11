@@ -1,0 +1,318 @@
+commit 5e1b6311424bbe96d100690d002d63a49120ddfe
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 23:56:43 2023 -0500
+
+    Updated to Profile
+
+commit 4636a35a8d8902bb28b08047d02b3f0b41aa3339
+Merge: 1c0ade1 dd4700c
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 19:50:22 2023 -0800
+
+    Merge pull request #11 from chloeb292/Piyush
+    
+    Piyush
+
+commit dd4700c6fe44ac5bf282ae9185690bcf7b6bf4ef
+Merge: a22ee70 1c0ade1
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 22:48:41 2023 -0500
+
+    Merge branch 'main' into Piyush
+
+commit a22ee70f2b6d19131469376781f348d09f6282ef
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 22:43:41 2023 -0500
+
+    resolve conflic
+
+commit cfd2ec1ec86e4e766c0f4fec096fa1daafb3b32c
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Mar 7 22:25:37 2023 -0500
+
+    adding personal profile
+
+commit 1c0ade1438cbae7edf88a2284337627093c8f2c1
+Merge: 17832d6 7b6e52a
+Author: dyllan britz <98113218+DyllanBritz@users.noreply.github.com>
+Date:   Tue Mar 7 22:06:37 2023 -0500
+
+    Merge pull request #8 from chloeb292/dyllan-pt2
+    
+    updates on policies
+
+commit 7b6e52a5412eee19c3ffff4e34aef0e99eb923cc
+Author: dyllan britz <britz@usf.edu>
+Date:   Tue Mar 7 22:02:58 2023 -0500
+
+    fixing placement of content
+
+commit 17832d6bdd616d81c45f7df38608cfde5aa80826
+Merge: 3f39aa3 8af7596
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 18:51:49 2023 -0800
+
+    Merge pull request #9 from chloeb292/JohnZ. Major Improvements on Network/Find Feature
+    
+    John z
+
+commit 8af75964a966b3dbac5fc30d58a72d2ab79a2e99
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 21:47:37 2023 -0500
+
+    Major Improvements on Network/Find Feature
+
+commit 43f0df8dfd38ec130a94098d563554495cdb621d
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 19:15:51 2023 -0500
+
+    Imrpovements on guestControl
+
+commit ee10a9a39a731f8ee295940dca91099efafad940
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Mar 7 19:06:01 2023 -0500
+
+    Update&Improvements on FindSomeone page
+
+commit ab89d010ed12ff49ce5bd508774072d9618af278
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Mar 7 18:29:28 2023 -0500
+
+    adding profile path
+
+commit 873d932c814548fe4010126c55264629cb42cde0
+Author: dyllan britz <britz@usf.edu>
+Date:   Tue Mar 7 18:21:33 2023 -0500
+
+    updates on policies
+
+commit 277bd21014e5f6a5a1d768126ebfcc4abe59ea6b
+Merge: 99b38e9 3f39aa3
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Mar 7 17:08:32 2023 -0500
+
+    Merge branch 'main' into Piyush
+
+commit 3f39aa3123ef8a924d08b22beae7c7083dac111e
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Mar 7 17:03:34 2023 -0500
+
+    Added history.txt until epic 4
+
+commit a314f5ba24f59e45339d9cc197c3a7e05eac1620
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 28 23:55:05 2023 -0500
+
+    Model with new features as required and html updates
+
+commit 49c9c57993ec6138fbfa0a56cc3901056a73805f
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 28 23:08:26 2023 -0500
+
+    new models and minor changes
+
+commit 99b38e9d8488683b9ffd9472a25f0b796b108e6a
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Feb 28 23:01:53 2023 -0500
+
+    Added pytest for Epic 3
+
+commit 80b77fa589b605a4000a6f32e93f243e5281126b
+Merge: 9c20e20 8f4e978
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Feb 28 23:01:23 2023 -0500
+
+    Merge branch 'main' into Piyush
+
+commit 8f4e9781fa7b02826bf95a2f1fd52f4c37b2f9e8
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 28 19:57:27 2023 -0500
+
+    Updates From Dyllan
+
+commit 9dc528b56e943ce5d11fa8d0b0e11c92798a4834
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 21 23:57:08 2023 -0500
+
+    updates from dyllan
+
+commit 8eab7df9dc7d9183619555b94284ebef126b988c
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 21 23:49:08 2023 -0500
+
+    someonepage
+
+commit 5642f9416ac88caa55b54ac39d22a88983b05dd3
+Author: zzhangJ <1156876777@qq.com>
+Date:   Thu Feb 16 00:03:28 2023 -0500
+
+    All Epic 1 requirements met and added test cases
+    
+    Added password validation.
+    new test cases.
+
+commit e2959d07b37de01a1573e081ff79ebc2c6216741
+Author: zzhangJ <1156876777@qq.com>
+Date:   Wed Feb 15 17:54:06 2023 -0500
+
+    Initial test using django-pytest
+
+commit dc45ba2066bc59d1759c678f34a2febcd333afeb
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 14 23:35:09 2023 -0500
+
+    Check Jobs Counts and Job Model Changed
+
+commit 9c20e207df3dcf91f2ee20e5dff0518c8647f423
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Feb 14 20:07:39 2023 -0500
+
+    adding pytest setup
+
+commit 967c1f868c8044deb55e4be38626fca84a4bdd9f
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Tue Feb 14 20:06:13 2023 -0500
+
+    added pytest setup files
+
+commit 2face2692919e6e499e19995b265786ebf9dfde0
+Merge: 1ed5e9d 3a98fb0
+Author: Chloe Berry <66789673+chloeb292@users.noreply.github.com>
+Date:   Tue Feb 14 17:34:39 2023 -0500
+
+    Merge pull request #5 from chloeb292/ChloeB
+    
+    Chloe b
+
+commit 3a98fb094c0ab2af47295f8258166a536199819b
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Tue Feb 14 17:34:07 2023 -0500
+
+    added 'create a job' form
+
+commit 8d41cc5c3552ad12227a43050c3592ac87a4f3b3
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Tue Feb 14 14:01:49 2023 -0500
+
+    added job model
+
+commit 1ed5e9d57761e43182e22c115be6de1c29bb6723
+Merge: de10b60 2aa5999
+Author: Chloe Berry <66789673+chloeb292@users.noreply.github.com>
+Date:   Tue Feb 14 11:57:59 2023 -0500
+
+    Merge pull request #3 from chloeb292/Dyllan_B
+    
+    edited my portion of the files
+
+commit 2aa59991e6c80ae5af2edf167f6d958491a39d63
+Author: dyllan britz <britz@usf.edu>
+Date:   Tue Feb 14 01:06:47 2023 -0500
+
+    edited my portion of the files
+
+commit de10b606bc63cab193e47ae0a2a4537286cef88b
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 14 00:08:29 2023 -0500
+
+    Update readme.txt
+
+commit be24a52d4fb2fd749015838ea3178b2bdb50fcc0
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Tue Feb 14 00:04:47 2023 -0500
+
+    Userbase Count feature  & minor improvements
+
+commit 7b978c250ded0a83dbe69386597f605753e0a008
+Merge: e413c1f e640a2b
+Author: Chloe Berry <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:46:54 2023 -0500
+
+    Merge pull request #2 from chloeb292/ChloeB
+    
+    Added go back functionality
+
+commit e640a2b3d08959bb3299944bbf349ef4df6799ab
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:46:27 2023 -0500
+
+    Added go back functionality
+
+commit e413c1f3e384b544d145ba8a54a2208afac8669e
+Merge: 199efb8 ed5edbc
+Author: Chloe Berry <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:37:50 2023 -0500
+
+    Merge pull request #1 from chloeb292/ChloeB
+    
+    small update
+
+commit ed5edbc0d8c6deed9cffb46a6e5ca9826f68b7f3
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:37:20 2023 -0500
+
+    small update
+
+commit 199efb8add92342964aa7740407ea4a035dc6e82
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:32:22 2023 -0500
+
+    update
+
+commit 7a6391a3487e33aa4a117b91330c89c3f3a8345b
+Merge: 2f67d69 7ab6765
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:27:37 2023 -0500
+
+    Merge branch 'main' of https://github.com/chloeb292/inCollegeUSF
+
+commit 2f67d69f3158ab1ff70149709ac17a8be46968c3
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Mon Feb 13 22:24:33 2023 -0500
+
+    Epic 1 Reqs met
+
+commit 7ab6765cb58e6a8c65e3833f5029723638516826
+Author: piyushmanjhi <76088883+piyushmanjhi@users.noreply.github.com>
+Date:   Sun Feb 12 16:31:35 2023 -0500
+
+    Create readme.txt
+
+commit bb031301ad0367df90d0463059190734c2b3bf53
+Merge: 8532007 e35d6d1
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Thu Feb 9 20:24:46 2023 -0500
+
+    Merge branch 'main' of https://github.com/chloeb292/inCollegeUSF
+
+commit 85320073f468be59e992cd35adb5fb92b07d035c
+Author: johntheZ <55151626+johntheZ@users.noreply.github.com>
+Date:   Thu Feb 9 20:23:42 2023 -0500
+
+    Changed app name to 'Home'
+    
+    The app name was "main"
+
+commit e35d6d15620442b5de7a23bcc8ea8305f67edcb6
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Thu Feb 9 20:06:04 2023 -0500
+
+    added admin
+
+commit fe36b83b8a622252aa83218ae3273e17b2b9a3ee
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Thu Feb 9 19:54:01 2023 -0500
+
+    user registration initial
+
+commit 836c082cbd64d4a45d7adbbf966e420920150dea
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Thu Feb 9 19:09:09 2023 -0500
+
+    initial site setup in django
+
+commit 810768b67806bc8587193a003367775ac3e27d63
+Author: chloeb292 <66789673+chloeb292@users.noreply.github.com>
+Date:   Thu Feb 9 19:06:31 2023 -0500
+
+    Initial commit
